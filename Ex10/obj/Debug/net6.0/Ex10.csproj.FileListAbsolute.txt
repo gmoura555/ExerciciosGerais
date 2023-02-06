@@ -1,0 +1,30 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\bin\Debug\net6.0\Ex10.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\bin\Debug\net6.0\Ex10.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\bin\Debug\net6.0\Ex10.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\bin\Debug\net6.0\Ex10.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\bin\Debug\net6.0\Ex10.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\refint\Ex10.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\ref\Ex10.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\bin\Debug\net6.0\Ex10.exe
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\bin\Debug\net6.0\Ex10.deps.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\bin\Debug\net6.0\Ex10.runtimeconfig.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\bin\Debug\net6.0\Ex10.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\bin\Debug\net6.0\Ex10.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.csproj.AssemblyReference.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.AssemblyInfoInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.AssemblyInfo.cs
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\refint\Ex10.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\Ex10.genruntimeconfig.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ExerciciosGerais\Ex10\obj\Debug\net6.0\ref\Ex10.dll
